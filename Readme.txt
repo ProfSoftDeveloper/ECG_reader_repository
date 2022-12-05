@@ -5,8 +5,7 @@ as required by the task.
 
 1.1 BUILD
 
-The project folder is ECG_reader. Make sure that all *.cpp, *.h, and other project files are stored inside this directory,
-as in initially provided folder. Inside this folder there are no subfolders for headers and sources.
+The project folder is ECG_reader. Inside this folder there are no subfolders for headers and sources.
 
 If not done before, install QT 6.4.1 with support of MinGW compiler on the computer
 The project is build in QT creator 9.0.0 IDE. Since IDE is installed,
